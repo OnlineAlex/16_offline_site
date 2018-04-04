@@ -1,7 +1,6 @@
-# New Site Template
+# Шаблон сайта оффлайн
 
-[TODO. There will be project description]
+Шаблон сайта для работы без интернета. 
 
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+# Цели проекта
+Код создан в учебных целях. В рамках учебного курса по веб-разработке - [DEVMAN.org](https://devman.org)
